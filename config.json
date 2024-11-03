@@ -9,12 +9,12 @@
     "gh_url": "https://github.com/develoeprshub",
     "blog_name": "Developer's Hub",
     "tag_line": "A Blog Theme by Start The Community for Coders and Creators",
-    "gmail-user": "jaypandya806@gmail.com",
-    "gmail-password": "odod tuzw atvf inel",
-    "about_text": "Hi my name is jay and I am created blog site",
+    "gmail-user": "enter your mail",
+    "gmail-password": "enter gmail password",
+    "about_text": "Hi my name is user and I am created blog site",
     "no_of_posts": 3,
     "login_image": "devhub.jpg",
-    "admin_user": "jay",
+    "admin_user": "user",
     "admin_password": "123456",
     "upload_location": " D:\\pythonProject\\static"
   }
